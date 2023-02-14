@@ -9,6 +9,7 @@ packages = [{include = "calendar_calc"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 flask = "^2.2.2"
+flask-expects-json = "^1.7.0"
 
 
 [build-system]
