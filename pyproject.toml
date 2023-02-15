@@ -10,6 +10,7 @@ packages = [{include = "calendar_calc"}]
 python = "^3.10"
 flask = "^2.2.2"
 flask-expects-json = "^1.7.0"
+gunicorn = "^20.1.0"
 
 
 [build-system]
